@@ -5,7 +5,7 @@ require_once 'test.class.php';
 $caller = new Test();
 
         // balance enquiry
-        $refferenxe = "YH7764GF564KI8R".time();
+        $refferenxe = "YH7764GF564KI8R";   // note: reference must not be more than 25 characters
         $balance_enq = [
             'id' => 'FundGate',
             'direction' => 'request',
