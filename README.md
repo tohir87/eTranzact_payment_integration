@@ -1,4 +1,4 @@
-# eTranzact
+# eTranzact Payment Integration
 
 This is intended for developers current/future developers that will be integrating with eTranzact as Etranzact doesn't currently have a sample code written in PHP.
 
