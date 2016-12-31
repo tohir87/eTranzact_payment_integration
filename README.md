@@ -8,5 +8,10 @@ To successfully communicate with the wsdl, your IP address needs to be whitelist
 
 Pls don't forget to include the test.class.php file.
 
-Scripts on how to carry out bulk transfer and querying a Bulk transfer transaction would be added soon.
+What was covered:
+1. Bulk Transfer
+2. Balance Enquiry
+
+Coming soon:
+1. Bulk query
 
